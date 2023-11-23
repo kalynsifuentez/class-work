@@ -1,0 +1,28 @@
+* {text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+nav {display: block;
+    /* position: fixed; */
+    background-color: forestgreen;
+    border-bottom: 10px solid lightpink;
+    width: 100%; 
+    height:100px;
+    z-index: 2;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+ul {text-align: right;
+    margin-right: auto;
+    padding-block: inherit;
+
+    }
+
+li {list-style-type: none;
+display: inline-block;}
+
+body {background-color: white;
+}
+
+img {display: grid; margin: auto;
+}
